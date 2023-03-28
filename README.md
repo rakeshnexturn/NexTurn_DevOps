@@ -117,3 +117,29 @@ Linux commands for listing
 use of chmod
 docker swarm uses
 What is RDS ?
+ what is docker network ?
+ write a playbook ?
+ git rebase ?
+ ansible roles ?
+ ansible modules ?
+ what is  package management tool ?
+ what is lambda ?
+ types of instances ?
+ what is inside master node cluster in kubernetes ?
+ what is terraform ?
+ what is trigger in lambda ?
+ linux commands ?
+ aws resources ?
+ what is an availability zone ?
+Command for creating multiple directories
+what is your idea about ansible?
+what do you mean by container and containerization
+Linux commands for listing
+use of chmod
+docker swarm uses
+What is RDS ? Why cant we use other DBs which can be installed in our instances...Whats the advantage of using RDS  rather than other DBs
+what is terraform ?
+known commands in Linux
+what is ansible and playbook
+Do you know how to write a playbook ...Write and show
+Docker swarm and k8s ?
