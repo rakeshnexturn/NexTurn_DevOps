@@ -108,5 +108,12 @@ git ,diff centralized and distributed version control system, git command,git re
 docker and docker command,docker prone,docker-compose
 Linux commands
 scripting
-maven,manven cycle and maven phases and explain  maven deploy,install
-
+maven,manven cycle and maven phases and explain  maven deploy,instal
+what is an availability zone ?
+Command for creating multiple directories
+what is your idea about ansible?
+what do you mean by container and containerization
+Linux commands for listing
+use of chmod
+docker swarm uses
+What is RDS ?
