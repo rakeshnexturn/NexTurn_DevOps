@@ -1,7 +1,7 @@
 # **Midterm Assessment Questions**
 ## _DevOps_
     1.What is Devops?
-    2.
+    2.What is Devops life cycle?
 
 ## _Linux_
 
@@ -15,6 +15,7 @@
     8.What is the use of chmod?
     9.What is the Command for creating multiple directories?
     10.How to write scripting?
+    11.What is Shell Scripting?
 
 ## _Git_
     1.What is Git?
@@ -68,7 +69,7 @@
     3.What do you mean by CICD pipe line?
     4.what is jenkins used for?
     5.what do you mean by CI/CD ?
-    
+    6.How to set user in jenkins
     
 ## _Docker_
     1.what do you mean by CI/CD ?
@@ -76,29 +77,46 @@
     3.what is docker-compose?
     4.what is docker network ?
     5.how to create a container from docker images?
+    6.What is container?
+    7. What are container logs
+    
     
     
     
 ## _Ansible_
-    1.Explain ansible YAML file ?
+    1.What is Ansible?
+    2.why ansible is being used?
+    3.How to write a playbook?
+    4.Explain ansible YAML file ?
+    5.What are variables in ansible?
+    6.Why Ansible?
     
     
     
 ## _Kubernetes_
     1.What is kubernetes?
-    2.
-    
+    2.What is Helm file?
+    3.What is cluster IP in kubernetes?
+    4.Why we use kubernates instead of docker swarm?
+    5.
     
 ## _Terraform_
-    1.
-    
+    1.what is terraform used for?
+    2.what is content of provider.tf and main.tf?
+    3.What is  Terraform lam?
+    4.What is state file in terraform?
+    5.What you did in terraform?
     
 ## _Scrum_
     1.What do you mean by scrum?
     2.what is scrum used for?
-    3.what are the operations/task a scrum master can do/does?
+    3.What is scrum master?
+    4.what are the operations/task a scrum master can do/does?
+    5.What is scrum? Explain in detail?
+    6.
     
-    
+## _Jfrog_
+    1.What is jfrog artifactory used for?
     
 ## _
     
