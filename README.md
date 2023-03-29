@@ -1,4 +1,8 @@
 # **Midterm Assessment Questions**
+## _DevOps_
+    1.What is Devops?
+    2.
+
 ## _Linux_
 
     1.What do you mean by Linux ?
@@ -52,3 +56,34 @@
     21.what is an availability zone ?
     22.Why cant we use other DBs which can be installed in our instances?
     23.Whats the advantage of using RDS  rather than other DBs?
+
+## _Jenkins_
+    1.What do you mean by Jenkins?
+    2.which java version does jenkins uses?
+    3.
+    
+## _Docker_
+    1.
+    
+    
+    
+## _Ansible_
+    1.
+    
+    
+## _Kubernetes_
+    1.
+    
+    
+## _Terraform_
+    1.
+    
+    
+## _Scrum_
+    1.
+    
+    
+    
+## _
+    
+
