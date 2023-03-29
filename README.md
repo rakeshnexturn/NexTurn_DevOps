@@ -66,7 +66,9 @@
     27.What is aws resources ?
 ## _Maven_
     1.What is Maven?
-    2.What is  package management tool ?
+    2.What is manven cycle and maven phases?
+    3.Explain  maven deploy,install?
+    4.What is  package management tool ?
 
 ## _Jenkins_
     1.What do you mean by Jenkins?
@@ -74,7 +76,8 @@
     3.What do you mean by CICD pipe line?
     4.what is jenkins used for?
     5.what do you mean by CI/CD ?
-    6.How to set user in jenkins
+    6.How to set user in jenkins?
+    7.Where do we store our user name and password in Jenkins?
     
 ## _Docker_
     1.what is docker?
@@ -103,6 +106,7 @@
     10.What is Ansible playbook?
     11.Difference between Playbook and Ad hoc?
     12.Write and show a playbook?
+    13.What is the location of ansible config file?
     
 ## _Kubernetes_
     1.What is kubernetes?
@@ -131,6 +135,7 @@
     5.What is scrum? Explain in detail?
     
 ## _Jfrog_
+    1.What is an Artifactory?
     1.What is jfrog artifactory used for?
     
 
