@@ -1,4 +1,4 @@
-# **Midterm Assessment Questions**
+# **Mid-Term Assessment Questions**
 ## _DevOps_
     1.What is Devops?
     2.What is Devops life cycle?
