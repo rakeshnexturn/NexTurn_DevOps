@@ -14,6 +14,7 @@
     7.What is the commands for listing files?
     8.What is the use of chmod?
     9.What is the Command for creating multiple directories?
+    10.How to write scripting?
 
 ## _Git_
     1.What is Git?
@@ -24,6 +25,7 @@
     6.Why Git branches?
     7.How to copy the git branch to another branch?
     8.How to clone a git repo and do some change and how to push that changed code to git hub?
+    9.What are 3 main components in GitHub ?
     
 ## _Cloud Computing_
     1.What do you mean by Cloud Computing ?
@@ -56,23 +58,35 @@
     21.what is an availability zone ?
     22.Why cant we use other DBs which can be installed in our instances?
     23.Whats the advantage of using RDS  rather than other DBs?
+    24.Difference between ipv4 and ipv6 ?
+## _Maven_
+    1.
 
 ## _Jenkins_
     1.What do you mean by Jenkins?
     2.which java version does jenkins uses?
-    3.
+    3.What do you mean by CICD pipe line?
+    4.what is jenkins used for?
+    5.what do you mean by CI/CD ?
+    
     
 ## _Docker_
-    1.
+    1.what do you mean by CI/CD ?
+    2.what is dockerfile?
+    3.what is docker-compose?
+    4.what is docker network ?
+    5.how to create a container from docker images?
     
     
     
 ## _Ansible_
-    1.
+    1.Explain ansible YAML file ?
+    
     
     
 ## _Kubernetes_
-    1.
+    1.What is kubernetes?
+    2.
     
     
 ## _Terraform_
@@ -80,7 +94,9 @@
     
     
 ## _Scrum_
-    1.
+    1.What do you mean by scrum?
+    2.what is scrum used for?
+    3.what are the operations/task a scrum master can do/does?
     
     
     
