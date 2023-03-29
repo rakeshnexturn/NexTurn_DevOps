@@ -27,7 +27,8 @@
     7.How to copy the git branch to another branch?
     8.How to clone a git repo and do some change and how to push that changed code to git hub?
     9.What are 3 main components in GitHub ?
-    
+    10.What is the difference between CVCS and DVCS?
+    11.What is git cherry-pick?
 ## _Cloud Computing_
     1.What do you mean by Cloud Computing ?
     2.What is Iaas,Paas and Saas?
@@ -60,8 +61,12 @@
     22.Why cant we use other DBs which can be installed in our instances?
     23.Whats the advantage of using RDS  rather than other DBs?
     24.Difference between ipv4 and ipv6 ?
+    25.What are the type of instances?
+    26.What is the difference between docker swarm and k8s ?
+    27.What is aws resources ?
 ## _Maven_
-    1.
+    1.What is Maven?
+    2.What is  package management tool ?
 
 ## _Jenkins_
     1.What do you mean by Jenkins?
@@ -72,13 +77,15 @@
     6.How to set user in jenkins
     
 ## _Docker_
-    1.what do you mean by CI/CD ?
+    1.what is docker?
     2.what is dockerfile?
     3.what is docker-compose?
     4.what is docker network ?
     5.how to create a container from docker images?
     6.What is container?
-    7. What are container logs
+    7.What are container logs?
+    8.What is the use of docker swarm ?
+    9.What do you mean by container and containerization?
     
     
     
@@ -90,15 +97,20 @@
     4.Explain ansible YAML file ?
     5.What are variables in ansible?
     6.Why Ansible?
-    
-    
+    7.What is ansible modules ?
+    8.What is ansible roles ?
+    9.what is your idea about ansible?
+    10.What is Ansible playbook?
+    11.Difference between Playbook and Ad hoc?
+    12.Write and show a playbook?
     
 ## _Kubernetes_
     1.What is kubernetes?
     2.What is Helm file?
     3.What is cluster IP in kubernetes?
     4.Why we use kubernates instead of docker swarm?
-    5.
+    5.What is inside master node cluster in kubernetes ?
+    6.How are the Docker and Kubernetes related ?
     
 ## _Terraform_
     1.what is terraform used for?
@@ -106,6 +118,10 @@
     3.What is  Terraform lam?
     4.What is state file in terraform?
     5.What you did in terraform?
+    6.What is modules in terraform?
+    7.Explain Terraform commands?
+    8.What terraform init will do?
+    
     
 ## _Scrum_
     1.What do you mean by scrum?
@@ -113,11 +129,10 @@
     3.What is scrum master?
     4.what are the operations/task a scrum master can do/does?
     5.What is scrum? Explain in detail?
-    6.
     
 ## _Jfrog_
     1.What is jfrog artifactory used for?
     
-## _
+
     
 
