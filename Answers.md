@@ -27,27 +27,64 @@
     - mv Command : The mv command is used to move a file or a directory form one location to another location.
     - rename Command : The rename command is used to rename files. It is useful for renaming a large group of files.
 #### Q3.What is the command for CPU usage?
-    4.What is the command for Disk usage?
-    5.What is file system in Linux ?
-    6.how to see all the current processes?
-    7.What is the commands for listing files?
-    8.What is the use of chmod?
-    9.What is the Command for creating multiple directories?
-    10.How to write scripting?
-    11.What is Shell Scripting?
+     mpstat Command command for CPU usage .
+#### 4.What is the command for Disk usage?
+    In Linux, you can use the du (disk usage) command to check the disk usage .
+#### 5.What is file system in Linux ?
+    A Linux file system is a structured collection of files on a disk drive or a partition. A partition is a segment of memory and
+    contains some specific data .
+#### 6.how to see all the current processes?
+    You need to use the ps command. It provides information about the currently running processes, including their process 
+    identification numbers (PIDs).
+#### 7.What is the commands for listing files?
+    Use the ls command to display the contents of a directory .
+#### 8.What is the use of chmod?
+    The chmod (CHange MODe) command is used to change permissions for a file or directory on a Unix machine.
+#### 9.What is the Command for creating multiple directories?
+    mdkir dir1 dir2
+#### 10.How to write scripting?
+    Create a file using a vi editor(or any other editor). Name script file with extension .sh.
+    Start the script with #! /bin/sh.Write some code.Save the script file as filename.sh.For executing the script type bash filename.sh.
 
+#### 11.What is Shell Scripting?
+    A shell script is a text file that contains a sequence of commands for a UNIX-based operating system .
 ## _Git_
-    1.What is Git?
-    2.Why we prefer git in it sector?
-    3.What is git rebase?
-    4.What is the command used to apply changes in git?
-    5.What is the difference between git fetch git pull git merge?
-    6.Why Git branches?
-    7.How to copy the git branch to another branch?
-    8.How to clone a git repo and do some change and how to push that changed code to git hub?
-    9.What are 3 main components in GitHub ?
-    10.What is the difference between CVCS and DVCS?
-    11.What is git cherry-pick?
+#### 1.What is Git?
+    Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating
+    work among programmer collaboratively developing source code during software development .
+#### 2.Why we prefer git in it sector?
+    It provides access to previous versions of the project. If there is any mistake, we can always roll back or undo the changes 
+    without losing any work.GIT is a hero that helps us handle possible problems that may occur while working on a software project.
+#### 3.What is git rebase?
+    Rebasing is the process of moving or combining a sequence of commits to a new base commit. Rebasing is most useful and easily
+    visualized in the context of a feature branching workflow.
+#### 4.What is the command used to apply changes in git?
+    The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates
+    to a particular file in the next commit.
+#### 5.What is the difference between git fetch git pull git merge?
+    git fetch updates your local repository with commits that have been added to the server since your last fetch, while git merge
+    will try to combine two parallel development paths and git pull fetches from remote repositories .
+#### 6.Why Git branches?
+    In Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes.
+    When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes .
+#### 7.How to copy the git branch to another branch?
+    Use the git checkout command
+
+#### 8.How to clone a git repo and do some change and how to push that changed code to git hub?
+    clone the git repo - git clone "Repo URL"
+    add the files to that git repo - git add .
+    commit the following changes - git commit -m First commit
+    now push using git push - git push
+#### 9.What are 3 main components in GitHub ?
+    - Workflows
+    - Events
+    - Jobs
+#### 10.What is the difference between CVCS and DVCS?
+    CVCS is slower as every command need to communicate with server. DVCS is faster as mostly user deals with local copy without hitting server everytime.
+    If CVCS Server is down, developers cannot work. If DVCS server is down, developer can work using their local copies.
+#### 11.What is git cherry-pick?
+    git cherry-pick is a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.
+    Cherry picking is the act of picking a commit from a branch and applying it to another.
 ## _Cloud Computing_
     1.What do you mean by Cloud Computing ?
     2.What is Iaas,Paas and Saas?
