@@ -150,37 +150,37 @@
     
     
 ## _Ansible_
-    1.What is Ansible?
-    2.why ansible is being used?
-    3.How to write a playbook?
-    4.Explain ansible YAML file ?
-    5.What are variables in ansible?
-    6.Why Ansible?
-    7.What is ansible modules ?
-    8.What is ansible roles ?
-    9.what is your idea about ansible?
-    10.What is Ansible playbook?
-    11.Difference between Playbook and Ad hoc?
-    12.Write and show a playbook?
-    13.What is the location of ansible config file?
+#### Q1.What is Ansible?
+#### Q2.why ansible is being used?
+#### Q3.How to write a playbook?
+#### Q4.Explain ansible YAML file ?
+#### Q5.What are variables in ansible?
+#### Q6.Why Ansible?
+#### Q7.What is ansible modules ?
+#### Q8.What is ansible roles ?
+#### Q9.what is your idea about ansible?
+#### Q10.What is Ansible playbook?
+#### Q11.Difference between Playbook and Ad hoc?
+#### Q12.Write and show a playbook?
+#### Q13.What is the location of ansible config file?
     
 ## _Kubernetes_
-    1.What is kubernetes?
-    2.What is Helm file?
-    3.What is cluster IP in kubernetes?
-    4.Why we use kubernates instead of docker swarm?
-    5.What is inside master node cluster in kubernetes ?
-    6.How are the Docker and Kubernetes related ?
+#### Q1.What is kubernetes?
+#### Q2.What is Helm file?
+#### Q3.What is cluster IP in kubernetes?
+#### Q4.Why we use kubernates instead of docker swarm?
+#### Q5.What is inside master node cluster in kubernetes ?
+#### Q6.How are the Docker and Kubernetes related ?
     
 ## _Terraform_
-    1.what is terraform used for?
-    2.what is content of provider.tf and main.tf?
-    3.What is  Terraform lam?
-    4.What is state file in terraform?
-    5.What you did in terraform?
-    6.What is modules in terraform?
-    7.Explain Terraform commands?
-    8.What terraform init will do?
+#### Q1.what is terraform used for?
+#### Q2.what is content of provider.tf and main.tf?
+#### Q3.What is  Terraform lam?
+#### Q4.What is state file in terraform?
+#### Q5.What you did in terraform?
+#### Q6.What is modules in terraform?
+#### Q7.Explain Terraform commands?
+#### Q8.What terraform init will do?
     
     
 ## _Scrum_
