@@ -28,123 +28,123 @@
     - rename Command : The rename command is used to rename files. It is useful for renaming a large group of files.
 #### Q3.What is the command for CPU usage?
      mpstat Command command for CPU usage .
-#### 4.What is the command for Disk usage?
+#### Q4.What is the command for Disk usage?
     In Linux, you can use the du (disk usage) command to check the disk usage .
-#### 5.What is file system in Linux ?
+#### Q5.What is file system in Linux ?
     A Linux file system is a structured collection of files on a disk drive or a partition. A partition is a segment of memory and
     contains some specific data .
-#### 6.how to see all the current processes?
+#### Q6.how to see all the current processes?
     You need to use the ps command. It provides information about the currently running processes, including their process 
     identification numbers (PIDs).
-#### 7.What is the commands for listing files?
+#### Q7.What is the commands for listing files?
     Use the ls command to display the contents of a directory .
-#### 8.What is the use of chmod?
+#### Q8.What is the use of chmod?
     The chmod (CHange MODe) command is used to change permissions for a file or directory on a Unix machine.
-#### 9.What is the Command for creating multiple directories?
+#### Q9.What is the Command for creating multiple directories?
     mdkir dir1 dir2
-#### 10.How to write scripting?
+#### Q10.How to write scripting?
     Create a file using a vi editor(or any other editor). Name script file with extension .sh.
     Start the script with #! /bin/sh.Write some code.Save the script file as filename.sh.For executing the script type bash filename.sh.
 
-#### 11.What is Shell Scripting?
+#### Q11.What is Shell Scripting?
     A shell script is a text file that contains a sequence of commands for a UNIX-based operating system .
 ## _Git_
-#### 1.What is Git?
+#### Q1.What is Git?
     Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating
     work among programmer collaboratively developing source code during software development .
-#### 2.Why we prefer git in it sector?
+#### Q2.Why we prefer git in it sector?
     It provides access to previous versions of the project. If there is any mistake, we can always roll back or undo the changes 
     without losing any work.GIT is a hero that helps us handle possible problems that may occur while working on a software project.
-#### 3.What is git rebase?
+#### Q3.What is git rebase?
     Rebasing is the process of moving or combining a sequence of commits to a new base commit. Rebasing is most useful and easily
     visualized in the context of a feature branching workflow.
-#### 4.What is the command used to apply changes in git?
+#### Q4.What is the command used to apply changes in git?
     The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates
     to a particular file in the next commit.
-#### 5.What is the difference between git fetch git pull git merge?
+#### Q5.What is the difference between git fetch git pull git merge?
     git fetch updates your local repository with commits that have been added to the server since your last fetch, while git merge
     will try to combine two parallel development paths and git pull fetches from remote repositories .
-#### 6.Why Git branches?
+#### Q6.Why Git branches?
     In Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes.
     When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes .
-#### 7.How to copy the git branch to another branch?
+#### Q7.How to copy the git branch to another branch?
     Use the git checkout command
 
-#### 8.How to clone a git repo and do some change and how to push that changed code to git hub?
+#### Q8.How to clone a git repo and do some change and how to push that changed code to git hub?
     clone the git repo - git clone "Repo URL"
     add the files to that git repo - git add .
     commit the following changes - git commit -m First commit
     now push using git push - git push
-#### 9.What are 3 main components in GitHub ?
+#### Q9.What are 3 main components in GitHub ?
     - Workflows
     - Events
     - Jobs
-#### 10.What is the difference between CVCS and DVCS?
+#### Q10.What is the difference between CVCS and DVCS?
     CVCS is slower as every command need to communicate with server. DVCS is faster as mostly user deals with local copy without hitting server everytime.
     If CVCS Server is down, developers cannot work. If DVCS server is down, developer can work using their local copies.
-#### 11.What is git cherry-pick?
+#### Q11.What is git cherry-pick?
     git cherry-pick is a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.
     Cherry picking is the act of picking a commit from a branch and applying it to another.
 ## _Cloud Computing_
-    1.What do you mean by Cloud Computing ?
-    2.What is Iaas,Paas and Saas?
-    3.Example of Iaas,Paas and Saas ?
+#### Q1.What do you mean by Cloud Computing ?
+#### Q2.What is Iaas,Paas and Saas?
+#### Q3.Example of Iaas,Paas and Saas ?
 ## _AWS_
-    1.What do you mean by VPC ?
-    2.What do you mean by Subnet?
-    3.What is loading balancing?
-    4.Describe s3 service in aws ?
-    5.What is security group ?
-    6.What is EC2 ans VPC?
-    7.What is Lambda ?
-    8.What is RDS?
-    9.What is EBS?
-    10.How IAM is useful in AWS?
-    11.How to use load balancer?
-    12.What do you mean by Cloud watch?
-    13.what is s3 bucket used for?
-    14.What is  S3 life cycle?
-    15.What is CDN?
-    16.What are the types of load balancer?
-    17.What is S3 life cycle Policy?
-    15.How to deploy web servers in Ec2?
-    16.What is cloudFront?
-    17.What is the difference between security group and nacl?
-    18.What do you mean by autoscalaing ?
-    19.what is trigger in lambda ?
-    20.What is  aws resources ?
-    21.what is an availability zone ?
-    22.Why cant we use other DBs which can be installed in our instances?
-    23.Whats the advantage of using RDS  rather than other DBs?
-    24.Difference between ipv4 and ipv6 ?
-    25.What are the type of instances?
-    26.What is the difference between docker swarm and k8s ?
-    27.What is aws resources ?
+#### Q1.What do you mean by VPC ?
+#### Q2.What do you mean by Subnet?
+#### Q3.What is loading balancing?
+#### Q4.Describe s3 service in aws ?
+#### Q5.What is security group ?
+#### Q6.What is EC2 ans VPC?
+#### Q7.What is Lambda ?
+#### Q8.What is RDS?
+#### Q9.What is EBS?
+#### Q10.How IAM is useful in AWS?
+#### Q11.How to use load balancer?
+#### Q12.What do you mean by Cloud watch?
+#### Q13.what is s3 bucket used for?
+#### Q14.What is  S3 life cycle?
+#### Q15.What is CDN?
+#### Q16.What are the types of load balancer?
+#### Q17.What is S3 life cycle Policy?
+#### Q15.How to deploy web servers in Ec2?
+#### Q16.What is cloudFront?
+#### Q17.What is the difference between security group and nacl?
+#### Q18.What do you mean by autoscalaing ?
+#### Q19.what is trigger in lambda ?
+#### Q20.What is  aws resources ?
+#### Q21.what is an availability zone ?
+#### Q22.Why cant we use other DBs which can be installed in our instances?
+#### Q23.Whats the advantage of using RDS  rather than other DBs?
+#### Q24.Difference between ipv4 and ipv6 ?
+#### Q25.What are the type of instances?
+#### Q26.What is the difference between docker swarm and k8s ?
+#### Q27.What is aws resources ?
 ## _Maven_
-    1.What is Maven?
-    2.What is manven cycle and maven phases?
-    3.Explain  maven deploy,install?
-    4.What is  package management tool ?
+#### 1.What is Maven?
+#### 2.What is manven cycle and maven phases?
+#### 3.Explain  maven deploy,install?
+#### 4.What is  package management tool ?
 
 ## _Jenkins_
-    1.What do you mean by Jenkins?
-    2.which java version does jenkins uses?
-    3.What do you mean by CICD pipe line?
-    4.what is jenkins used for?
-    5.what do you mean by CI/CD ?
-    6.How to set user in jenkins?
-    7.Where do we store our user name and password in Jenkins?
+#### Q1.What do you mean by Jenkins?
+#### Q2.which java version does jenkins uses?
+#### Q3.What do you mean by CICD pipe line?
+#### Q4.what is jenkins used for?
+#### Q5.what do you mean by CI/CD ?
+#### Q6.How to set user in jenkins?
+#### Q7.Where do we store our user name and password in Jenkins?
     
 ## _Docker_
-    1.what is docker?
-    2.what is dockerfile?
-    3.what is docker-compose?
-    4.what is docker network ?
-    5.how to create a container from docker images?
-    6.What is container?
-    7.What are container logs?
-    8.What is the use of docker swarm ?
-    9.What do you mean by container and containerization?
+#### Q1.what is docker?
+#### Q2.what is dockerfile?
+#### Q3.what is docker-compose?
+#### Q4.what is docker network ?
+#### Q5.how to create a container from docker images?
+#### Q6.What is container?
+#### Q7.What are container logs?
+#### Q8.What is the use of docker swarm ?
+#### Q9.What do you mean by container and containerization?
     
     
     
@@ -184,15 +184,15 @@
     
     
 ## _Scrum_
-    1.What do you mean by scrum?
-    2.what is scrum used for?
-    3.What is scrum master?
-    4.what are the operations/task a scrum master can do/does?
-    5.What is scrum? Explain in detail?
+#### Q1.What do you mean by scrum?
+#### Q2.what is scrum used for?
+#### Q3.What is scrum master?
+#### Q4.what are the operations/task a scrum master can do/does?
+#### Q5.What is scrum? Explain in detail?
     
 ## _Jfrog_
-    1.What is an Artifactory?
-    1.What is jfrog artifactory used for?
+#### Q1.What is an Artifactory?
+#### Q1.What is jfrog artifactory used for?
     
 
     
