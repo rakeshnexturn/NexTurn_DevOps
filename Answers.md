@@ -218,11 +218,20 @@
 
 ## _Maven_
 #### 1.What is Maven?
+    Maven is a popular open-source build tool developed by the Apache Group to build, publish, and deploy several projects at once for better project management.
+    The tool provides allows developers to build and document the lifecycle framework.
 #### 2.What is manven cycle and maven phases?
-#### 3.Explain  maven deploy,install?
-#### 4.What is  package management tool ?
+    The maven builds lifecycle is the tasks performed when the maven build commands are executed. The maven build lifecycle is divided into stages known as
+    build phases. A build phase is made up of objectives. Maven goals are specific tasks that contribute to the creation and management of a project.
 
-## _Jenkins_
+#### 3.Explain  maven deploy,install?
+    Install the artifact in the local repository. (Not in the server) Deploy - Use it only if you publish your artifacts to remote repository so 
+    it can be shared with others to download.
+#### 4.What is  package management tool ?
+    Package managers help developers install and track dependencies in a project and make it possible for members of a development team to ensure that everyone
+    is using the same versions of dependencies.
+
+## _Jenkins_ 
 #### Q1.What do you mean by Jenkins?
 #### Q2.which java version does jenkins uses?
 #### Q3.What do you mean by CICD pipe line?
