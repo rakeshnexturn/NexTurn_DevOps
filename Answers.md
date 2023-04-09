@@ -87,22 +87,70 @@
     Cherry picking is the act of picking a commit from a branch and applying it to another.
 ## _Cloud Computing_
 #### Q1.What do you mean by Cloud Computing ?
+    Cloud computing is a virtualization-based technology that allows us to create, configure, and customize applications via an internet connection.
 #### Q2.What is Iaas,Paas and Saas?
+    -> Infrastructure-as-a-Service (IaaS): A set of raw IT resources offered to the user by the cloud service provider. They can be used to virtualise
+    an infrastructure, or for resource-intensive projects.
+    -> Platform-as-a-Service (PaaS): A platform that a provider offers to its customers via the internet. It enables teams — especially developers — to
+    build applications and software on a solution without having to maintain it. Some applications support a wide variety of programming languages, which
+    means they deliver more flexibility than an application hosted on a local infrastructure.
+    -> Software-as-a-Service (SaaS): This is the most popular cloud service. It is software that runs on a provider’s infrastructure. The user pays for 
+    the licence, but does not manage the data storage or physical hardware maintenance.
+
 #### Q3.Example of Iaas,Paas and Saas ?
+    -> Iaas : machine learning, big data, hosting, etc.
+    -> Paas : AWS Elastic Beanstalk, Google App Engine, and Adobe Commerce, etc.
+    -> Saas : Gmail, Slack, and Microsoft Office 365 etc.
+
 ## _AWS_
 #### Q1.What do you mean by VPC ?
+    A virtual private cloud (VPC) is a secure, isolated private cloud hosted within a public cloud. VPC customers can run code, store data, host websites,
+    and do anything else they could do in an ordinary private cloud.
+
 #### Q2.What do you mean by Subnet?
+    A subnet is a range of IP addresses in your VPC. You launch AWS resources, such as Amazon EC2 instances, into your subnets.
 #### Q3.What is loading balancing?
+    Load balancing is the method of distributing network traffic equally across a pool of resources that support an application.
 #### Q4.Describe s3 service in aws ?
+    Amazon S3 is an object storage service that stores data as objects within buckets. An object is a file and any metadata that describes the file.
 #### Q5.What is security group ?
+    A security group controls the traffic that is allowed to reach and leave the resources that it is associated with. For example, after you associate
+    a security group with an EC2 instance, it controls the inbound and outbound traffic for the instance.
 #### Q6.What is EC2 ans VPC?
+    Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 eliminates
+    your need to invest in hardware up front, so you can develop and deploy applications faster.
 #### Q7.What is Lambda ?
+    AWS Lambda is a compute service that lets you run code without provisioning or managing servers. Lambda runs your code on a high-availability 
+    compute infrastructure and performs all of the administration of the compute resources, including server and operating system maintenance, capacity
+    provisioning and automatic scaling, and logging.
 #### Q8.What is RDS?
+    Amazon Relational Database Service (Amazon RDS) is a web service that makes it easier to set up, operate, and scale a relational database in the
+    AWS Cloud. It provides cost-efficient, resizable capacity for an industry-standard relational database and manages common database administration tasks.
 #### Q9.What is EBS?
+    Amazon Elastic Block Store (Amazon EBS) is an easy-to-use, scalable, high-performance block-storage service designed for Amazon Elastic Compute Cloud
+    (Amazon EC2).
 #### Q10.How IAM is useful in AWS?
+    AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. With IAM, you can centrally manage
+    permissions that control which AWS resources users can access. You use IAM to control who is authenticated (signed in) and authorized (has permissions)
+    to use resources.
 #### Q11.How to use load balancer?
+    Before you begin
+    Step 1: Select a load balancer type
+    Step 2: Define your load balancer
+    Step 3: Assign security groups to your load balancer in a VPC
+    Step 4: Configure health checks for your EC2 instances
+    Step 5: Register EC2 instances with your load balancer
+    Step 6: Tag your load balancer (optional)
+    Step 7: Create and verify your load balancer
+    Step 8: Delete your load balancer (optional)
 #### Q12.What do you mean by Cloud watch?
+    CloudWatch enables you to monitor your complete stack (applications, infrastructure, network, and services) and use alarms, logs, and events data
+    to take automated actions and reduce mean time to resolution. This frees up important resources and allows you to focus on building applications 
+    and business value.
 #### Q13.what is s3 bucket used for?
+    Amazon S3 is used to store and retrieve any amount of data at any time, from anywhere. To get the most out of Amazon S3, you need to understand
+    a few simple concepts. Amazon S3 stores data as objects within buckets. An object consists of a file and optionally any metadata that describes that file.
+    
 #### Q14.What is  S3 life cycle?
 #### Q15.What is CDN?
 #### Q16.What are the types of load balancer?
