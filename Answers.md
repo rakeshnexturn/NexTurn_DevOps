@@ -152,22 +152,70 @@
     a few simple concepts. Amazon S3 stores data as objects within buckets. An object consists of a file and optionally any metadata that describes that file.
     
 #### Q14.What is  S3 life cycle?
+    An S3 Lifecycle configuration is an XML file that consists of a set of rules with predefined actions that you want Amazon S3 to perform on objects
+    during their lifetime.
+
 #### Q15.What is CDN?
+    A CDN allows for the quick transfer of assets needed for loading Internet content, including HTML pages, JavaScript files, stylesheets, images, and videos.
 #### Q16.What are the types of load balancer?
+    There are three types of load balancers.They are
+    - Application Load Balancers 
+    - Network Load Balancers 
+    - Classic Load Balancers.
 #### Q17.What is S3 life cycle Policy?
+    An S3 Lifecycle configuration is a set of rules that define actions that Amazon S3 applies to a group of objects. There are two types of actions:
+    - Transition Actions
+    - Expiration Actions
 #### Q15.How to deploy web servers in Ec2?
+    Steps to deploy webservers in Ec2:
+     1. Choose AMI
+     2. Choose Instance Type
+     3. Configure Instance
+     4. Add Storage
+     5. Add Tags
+     6. Configure Security Group
+     7. Review
+     8.SSH into the EC2 instance and Install a Web Server
 #### Q16.What is cloudFront?
+    Amazon CloudFront is a web service that speeds up distribution of your static and dynamic web content, such as .html, .css, .js, and image files, etc .
 #### Q17.What is the difference between security group and nacl?
+    NACL can be understood as the firewall or protection for the subnet. Security group can be understood as a firewall to protect EC2 instances.
 #### Q18.What do you mean by autoscalaing ?
+    Autoscaling is a cloud computing feature that enables organizations to scale cloud services such as server capacities or virtual machines up or 
+    down automatically, based on defined situations such as traffic ir utilization levels.
+
 #### Q19.what is trigger in lambda ?
+    A trigger is a resource you configure to allow another AWS service to invoke your function when certain events or conditions occur. Your function can have
+    multiple triggers.
+
 #### Q20.What is  aws resources ?
+    In AWS, a resource is an entity that you can work with. Examples include an Amazon EC2 instance, an AWS CloudFormation stack, or an Amazon S3 bucket.
+    If you work with multiple resources, you might find it useful to manage them as a group rather than move from one AWS service to another for each task.
 #### Q21.what is an availability zone ?
+    Availability Zones are distinct locations within an AWS Region that are engineered to be isolated from failures in other Availability Zones. 
+
 #### Q22.Why cant we use other DBs which can be installed in our instances?
+    An instance can mount and open only a single database, ever. * A database may be mounted and opened by one or more instances (using RAC) .
+    
 #### Q23.Whats the advantage of using RDS  rather than other DBs?
+    Amazon RDS makes it easy to use replication to enhance availability and reliability for production workloads. Using the Multi-AZ deployment option,
+    you can run mission-critical workloads with high availability and built-in automated failover from your primary database to a synchronously replicated
+    secondary database.
 #### Q24.Difference between ipv4 and ipv6 ?
+    IPv4 is a 32-Bit IP address, whereas IPv6 is a 128-Bit IP address. IPv4 is a numeric addressing method, whereas IPv6 is an alphanumeric addressing
+    method.IPv4 binary bits are separated by a dot(.), whereas IPv6 binary bits are separated by a colon(:). IPv4 offers 12 header fields, whereas IPv6 offers 8
+    header fields.
 #### Q25.What are the type of instances?
+    Instance types comprise varying combinations of CPU, memory, storage, and networking capacity and give you the flexibility to choose the appropriate
+    mix of resources for your applications.
 #### Q26.What is the difference between docker swarm and k8s ?
+    The major difference between the platforms is based on complexity. Kubernetes is well suited for complex applications. On the other hand, Docker Swarm
+    is designed for ease of use, making it a preferable choice for simple applications.
+
 #### Q27.What is aws resources ?
+    In AWS, a resource is an entity that you can work with. Examples include an Amazon EC2 instance, an AWS CloudFormation stack, or an Amazon S3 bucket.
+    If you work with multiple resources, you might find it useful to manage them as a group rather than move from one AWS service to another for each task.
+
 ## _Maven_
 #### 1.What is Maven?
 #### 2.What is manven cycle and maven phases?
