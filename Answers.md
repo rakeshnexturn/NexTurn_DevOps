@@ -415,15 +415,43 @@
     
 ## _Scrum_
 #### Q1.What do you mean by scrum?
+    Scrum is a framework of rules, roles, events, and artifacts used to implement Agile projects. It is an iterative approach, consisting of sprints 
+    that typically only last one to four weeks, with the objective of continuously improving a product.
 #### Q2.what is scrum used for?
+    Scrum is a management framework that teams use to self-organize and work towards a common goal. It describes a set of meetings, tools, and roles
+    for efficient project delivery.
+    
 #### Q3.What is scrum master?
+    A  Scrum Master is a professional who leads a team using Agile project management through the course of a project. A Scrum Master facilitates
+    all the communication and collaboration between leadership and team players to ensure a successful outcome.
 #### Q4.what are the operations/task a scrum master can do/does?
+    The Scrum Master smoothens out obstacles, facilitates events, ensures transparency in processes, resolves conflicts and helps the team understand
+    the scope of work and how to follow goals to create high-end products.
 #### Q5.What is scrum? Explain in detail?
+    - Scrum is a popular framework for Agile software development, designed to help teams work collaboratively to deliver high-quality software in a 
+      more flexible and efficient manner. Scrum provides a structure for organizing and managing work in short cycles, called sprints, allowing teams 
+      to adapt quickly to changing requirements and priorities.
+    - The team meets regularly during the sprint in a series of meetings called ceremonies. The main ceremonies include:
+
+        => Sprint Planning: The team meets to plan the work to be done during the upcoming sprint, with the aim of creating a sprint backlog - 
+           a list of tasks that must be completed during the sprint.
+        => Daily Scrum: A daily meeting where team members discuss progress, identify any obstacles, and plan their work for the day ahead.
+
+        => Sprint Review: A meeting at the end of each sprint where the team presents their work to the product owner and stakeholders, and receives feedback.
+
+        => Sprint Retrospective: A meeting held after the sprint review, where the team reflects on the sprint and identifies ways to improve their processes
+           and work.icient manner. Scrum provides a structure for organizing and managing work in short cycles, called sprints, allowing teams to adapt
+           quickly to changing requirements and priorities.
+    
+    
     
 ## _Jfrog_
 #### Q1.What is an Artifactory?
+    Artifactory offers a solution for managing and distributing software binaries and artifacts – such as application packages and installers, container
+    images,libraries, configuration files and virtually any other type of binary data that is produced during the software development and delivery process.
 #### Q1.What is jfrog artifactory used for?
-    
+    JFrog Artifactory is a repository manager that supports all available software package types, enabling automated continous integration and delivery.
+    Add Artifactory to your toolchain and store build artifacts in your Artifactory repository.
 
     
 
