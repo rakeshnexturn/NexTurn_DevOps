@@ -228,28 +228,66 @@
     Install the artifact in the local repository. (Not in the server) Deploy - Use it only if you publish your artifacts to remote repository so 
     it can be shared with others to download.
 #### 4.What is  package management tool ?
-    Package managers help developers install and track dependencies in a project and make it possible for members of a development team to ensure that everyone
-    is using the same versions of dependencies.
+    Package managers help developers install and track dependencies in a project and make it possible for members of a development team to ensure
+    that everyone is using the same versions of dependencies.
 
 ## _Jenkins_ 
 #### Q1.What do you mean by Jenkins?
+    Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool written in the Java
+    programming language. It is used to implement CI/CD workflows, called pipelines.
 #### Q2.which java version does jenkins uses?
+    Jenkins requires Java 11 or 17 .
+
 #### Q3.What do you mean by CICD pipe line?
+    A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver 
+    a new version of software. 
 #### Q4.what is jenkins used for?
+    Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool written in the 
+    Java programming language.
 #### Q5.what do you mean by CI/CD ?
+    A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver a 
+    new version of software .
 #### Q6.How to set user in jenkins?
+    Step 1) Login to Jenkins Dashboard. Login to your Jenkins dashboard by visiting http://localhost:8080/ ...
+    Step 2) Choose the option. You will now see options to create and add user in Jenkins and manage current users.
+    Step 3) Create a new User .
+    Step 4) User is created .
+
 #### Q7.Where do we store our user name and password in Jenkins?
+    From the Jenkins home page (i.e. the Dashboard of the Jenkins classic UI), click Manage Jenkins > Manage Credentials. Under Stores scoped 
+    to Jenkins on the right, click on Jenkins. Under System, click the Global credentials (unrestricted) link to access this default domain.
+    Click Add Credentials on the left.
     
 ## _Docker_
 #### Q1.what is docker?
+    Docker is a software platform that allows you to build, test, and deploy applications quickly.
 #### Q2.what is dockerfile?
-#### Q3.what is docker-compose?
+    A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
+    This page describes the commands you can use in a Dockerfile .
+#### Q3.what is docker-compose? 
+    Docker Compose is a tool that was developed to help define and share multi-container applications.
+
 #### Q4.what is docker network ?
+    Docker networking allows you to attach a container to as many networks as you like. You can also attach an already running container.
+
 #### Q5.how to create a container from docker images?
+    The docker container create (or shorthand: docker create ) command creates a new container from the specified image, without starting it.
+    When creating a container, the docker daemon creates a writeable container layer over the specified image and prepares it for running 
+    the specified command.
+
 #### Q6.What is container?
+    A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application :
+    code, runtime, system tools, system libraries and settings.
+
 #### Q7.What are container logs?
+    The docker logs command shows information logged by a running container. The docker service logs command shows information logged by all 
+    containers participating in a service.
 #### Q8.What is the use of docker swarm ?
+    Docker Swarm is an orchestration management tool that runs on Docker applications. It helps end-users in creating and deploying a cluster
+    of Docker nodes. Each node of a Docker Swarm is a Docker daemon, and all Docker daemons interact using the Docker API.
 #### Q9.What do you mean by container and containerization?
+    Containerization is a type of virtualization in which all the components of an application are bundled into a single container image and 
+    can be run in isolated user space on the same shared operating system. Containers are lightweight, portable, and highly conducive to automation.
     
     
     
