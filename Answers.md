@@ -294,18 +294,65 @@
     
 ## _Ansible_
 #### Q1.What is Ansible?
+    Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration
+    and many other IT processes
 #### Q2.why ansible is being used?
+    Ansible can be used to provision the underlying infrastructure of your environment, virtualized hosts and hypervisors, network devices and
+    bare metal servers. It can also install services, add compute hosts, and provision resources, services, and applications inside of your cloud.
+
 #### Q3.How to write a playbook?
+    Playbooks are written in the YAML format and have a . yml file extension.
+    Use this command to run a playbook: $ ansible-playbook <playbook. ...
+    Use this command to check the playbook for syntax errors: $ ansible-playbook <playbook. ...
+    Create lists. ...
+    Include whitespaces. ...
+    Name your tasks. ...
+    Include the state. ...
+    Employ comments.
+
 #### Q4.Explain ansible YAML file ?
+    An Ansible playbook is a YAML sequence, which itself consists of mappings and sequences. Playbooks also contain Ansible modules, each of which
+    accepts parameters as defined by its developer.
 #### Q5.What are variables in ansible?
+    Ansible uses variables to manage differences between systems. With Ansible, you can execute tasks and playbooks on multiple different systems
+    with a single command. To represent the variations among those different systems, you can create variables with standard YAML syntax,
+    including lists and dictionaries.
 #### Q6.Why Ansible?
+    - Ansible is free and Open Source.
+    - Agentless. Ansible doesn’t require any agent on client machines unlike other automation tool exists in the market (Puppet, Chef, Salt.).
+      It uses SSH protocol to connect the servers. Ansible required Python to make the use of modules on client machines. Ansible also works with
+      a system which doesn’t have python installed using the “raw” module.
+    - Ansible uses YAML language which is very easy to learn.
+    - Supported by Red Hat.
 #### Q7.What is ansible modules ?
+    Ansible modules are units of code that can control system resources or execute system commands. Ansible provides a module library that you can 
+    execute directly on remote hosts or through playbooks. You can also write custom modules.
+
 #### Q8.What is ansible roles ?
+    Roles are a method of automatically loading certain variables, tasks, files, templates, and handlers based on a known file structure.
+    Grouping content by roles allows for easy sharing and reuse. 
+
 #### Q9.what is your idea about ansible?
+    Ansible establishes a connection with the remote system and distributes the modules required for command or playbook execution.
+    Ansible uses human-readable YAML templates to allow the automation of repetitive processes without the need to master a complex programming language .
 #### Q10.What is Ansible playbook?
+    Ansible Playbooks offer a repeatable, re-usable, simple configuration management and multi-machine deployment system, one that is well suited
+    to deploying complex applications. If you need to execute a task with Ansible more than once, write a playbook and put it under source control.
+
 #### Q11.Difference between Playbook and Ad hoc?
+    Ansible ad hoc commands are one-liner Linux shell commands and playbooks are like a shell script, a collective of many commands with logic.
+    Ansible ad hoc commands come handy when you want to perform a quick task
 #### Q12.Write and show a playbook?
+    - Playbooks are written in the YAML format and have a . yml file extension.
+    - Use this command to run a playbook: $ ansible-playbook <playbook. ...
+    - Use this command to check the playbook for syntax errors: $ ansible-playbook <playbook. ..
+    - Create lists. ...
+    - Include whitespaces. ...
+    - Name your tasks. ...
+    - Include the state. ...
+    - Employ comments.
 #### Q13.What is the location of ansible config file?
+    /etc/ansible/ansible.cfg
     
 ## _Kubernetes_
 #### Q1.What is kubernetes?
