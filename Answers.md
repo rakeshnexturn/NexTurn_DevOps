@@ -407,7 +407,7 @@
        read and maintain.
      - terraform state: This command allows you to view and manage the state of your infrastructure. You can use this command to show the current state,
        import existing resources into Terraform, and remove resources from the state.
-      - terraform import: This command allows you to import existing infrastructure into Terraform. It creates a resource block in your Terraform code 
+     - terraform import: This command allows you to import existing infrastructure into Terraform. It creates a resource block in your Terraform code 
         that represents the imported resource.
 #### Q8.What terraform init will do?
     The terraform init command initializes a working directory containing Terraform configuration files.
