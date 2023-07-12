@@ -31,8 +31,8 @@
 #### Q4.What is the command for Disk usage?
     In Linux, you can use the du (disk usage) command to check the disk usage .
 #### Q5.What is file system in Linux ?
-    A Linux file system is a structured collection of files on a disk drive or a partition. A partition is a segment of memory and
-    contains some specific data .
+    Linux file system is generally a built-in layer of a Linux operating system used to handle the data management of the storage. It helps to arrange the file on the disk
+    storage. It manages the file name, file size, creation date, and much more information about a file.
 #### Q6.how to see all the current processes?
     You need to use the ps command. It provides information about the currently running processes, including their process 
     identification numbers (PIDs).
